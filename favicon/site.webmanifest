@@ -1,0 +1,9 @@
+{
+  "name": "Ravi Pandit Portfolio",
+  "short_name": "Ravi Pandit Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#121315",
+  "background_color": "#121315",
+  "icons": []
+}
